@@ -25,7 +25,7 @@
    <a href="home.php" class="logo">Inland Tours & Travels</a>
 
    <nav class="navbar">
-      <a href="home.php">home</a>
+      <a href="index.php">home</a>
       <a href="about.php">about</a>
       <a href="package.php">package</a>
       <a href="book.php">book</a>
@@ -43,12 +43,11 @@
 
 <!-- booking section starts  -->
 
-<section class="booking">
+<section class="feedback">
 
    <h1 class="heading-title">We value your feedbak!</h1>
 
    <form action="feedback_form.php" method="post" class="feedback-form">
-
       <div class="flex">
          <div class="inputBox">
             <span>first name :</span>
@@ -73,6 +72,7 @@
       </div>
 
       <input type="submit" value="submit" class="btn" name="send">
+   
 
    </form>
 
@@ -104,7 +104,7 @@
 
       <div class="box">
          <h3>quick links</h3>
-         <a href="home.php"> <i class="fas fa-angle-right"></i> home</a>
+         <a href="index.php"> <i class="fas fa-angle-right"></i> home</a>
          <a href="about.php"> <i class="fas fa-angle-right"></i> about</a>
          <a href="package.php"> <i class="fas fa-angle-right"></i> package</a>
          <a href="book.php"> <i class="fas fa-angle-right"></i> book</a>
@@ -113,7 +113,7 @@
       <div class="box">
          <h3>extra links</h3>
          <a href="#"> <i class="fas fa-angle-right"></i> ask questions</a>
-         <a href="#"> <i class="fas fa-angle-right"></i> about us</a>
+         <a href="about.php"> <i class="fas fa-angle-right"></i> about us</a>
          <a href="./privacy.php#privacy"> <i class="fas fa-angle-right"></i> privacy policy</a>
          <a href="./terms.php#terms"><i class="fas fa-angle-right"></i> terms of use</a>
       </div>

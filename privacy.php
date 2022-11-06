@@ -26,7 +26,7 @@
    <a href="home.php" class="logo">Inland Tours & Travels</a>
 
    <nav class="navbar">
-      <a href="home.php">home</a>
+      <a href="index.php">home</a>
       <a href="about.php">about</a>
       <a href="package.php">package</a>
       <a href="book.php">book</a>
@@ -336,7 +336,7 @@
                 <div class="about-us">
                     <h2>quick links</h2>
                     <ul style="list-style: none;">
-                        <li><a href="home.php" class="link"> <i class="fas fa-angle-right"></i> home</a></li>
+                        <li><a href="index.php" class="link"> <i class="fas fa-angle-right"></i> home</a></li>
                         <li><a href="about.php" class="link"> <i class="fas fa-angle-right"></i> about</a>
                         <li><a href="package.php" class="link"> <i class="fas fa-angle-right"></i> package</a></li>
                         <li><a href="book.php" class="link"> <i class="fas fa-angle-right"></i> book</a></li>
@@ -346,7 +346,7 @@
                     <h2>extra links</h2>
                     <ul style="list-style: none;">
                         <li><a href="#" class="link"> <i class="fas fa-angle-right"></i> ask questions</a></li>
-                        <li><a href="#" class="link"> <i class="fas fa-angle-right"></i> about us</a></li>
+                        <li><a href="about.php" class="link"> <i class="fas fa-angle-right"></i> about us</a></li>
                         <li><a href="./privacy.php#privacy" class="link"> <i class="fas fa-angle-right"></i> privacy policy</a></li>
                         <li><a href="./terms.php#terms" class="link"><i class="fas fa-angle-right"></i> terms of use</a></li>
                     </ul>

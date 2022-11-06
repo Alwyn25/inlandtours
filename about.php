@@ -409,7 +409,7 @@ function showSlides(n) {
 </script>
 <!-- reviews section starts  -->
 
-<section class="reviews">
+<!-- <section class="reviews">
 
    <h1 class="heading-title"> clients reviews </h1>
 
@@ -499,15 +499,15 @@ function showSlides(n) {
 
    </div>
 
-</section>
+</section> -->
 
 
-<section class="feedback-title">
+<!-- <section class="feedback-title">
    <div class="site-background" id="home">
          <h1 class="heading-title">We value your feedback</h1>
          <a href="feedback.php"><button class="btn feedback-btn">Write your experience with Inland tours & travels</button></a>
    </div>
-</section>
+</section> -->
 
 <!-- reviews section ends -->
 

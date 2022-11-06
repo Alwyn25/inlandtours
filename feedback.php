@@ -13,7 +13,7 @@
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
    <!-- custom css file link  -->
-   <link rel="stylesheet" href="css/style.css">
+   <link rel="stylesheet" href="css/main.css">
 
 </head>
 <body>
@@ -22,7 +22,7 @@
 
 <section class="header">
 
-   <a href="home.php" class="logo">travel.</a>
+   <a href="home.php" class="logo">Inland Tours & Travels</a>
 
    <nav class="navbar">
       <a href="home.php">home</a>
@@ -38,14 +38,14 @@
 <!-- header section ends -->
 
 <div class="heading" style="background:url(images/header-bg-3.png) no-repeat">
-   <h1>book now</h1>
+   <h1>feedback</h1>
 </div>
 
 <!-- booking section starts  -->
 
 <section class="booking">
 
-   <h1 class="heading-title">book your trip!</h1>
+   <h1 class="heading-title">We value your feedbak!</h1>
 
    <form action="feedback_form.php" method="post" class="feedback-form">
 
@@ -114,30 +114,38 @@
          <h3>extra links</h3>
          <a href="#"> <i class="fas fa-angle-right"></i> ask questions</a>
          <a href="#"> <i class="fas fa-angle-right"></i> about us</a>
-         <a href="#"> <i class="fas fa-angle-right"></i> privacy policy</a>
-         <a href="#"> <i class="fas fa-angle-right"></i> terms of use</a>
+         <a href="./privacy.php#privacy"> <i class="fas fa-angle-right"></i> privacy policy</a>
+         <a href="./terms.php#terms"><i class="fas fa-angle-right"></i> terms of use</a>
       </div>
 
       <div class="box">
          <h3>contact info</h3>
-         <a href="#"> <i class="fas fa-phone"></i> +123-456-7890 </a>
-         <a href="#"> <i class="fas fa-phone"></i> +111-222-3333 </a>
-         <a href="#"> <i class="fas fa-envelope"></i> shaikhanas@gmail.com </a>
-         <a href="#"> <i class="fas fa-map"></i> mumbai, india - 400104 </a>
+         <a href="tel:+91-9847449044"> <i class="fas fa-phone"></i> +91-9847449044 </a>
+         <a href="tel:+91-8848474994"> <i class="fas fa-phone"></i> +91-8848474994 </a>
+         <a href="mailto: info@inlandtours.in "> <i class="fas fa-envelope"></i>  Info@Inlandtours.In </a>
+         <a href="#"> <i class="fas fa-map"></i> Nilambur, india - 679331 </a>
       </div>
 
       <div class="box">
          <h3>follow us</h3>
-         <a href="#"> <i class="fab fa-facebook-f"></i> facebook </a>
+         <a href="https://www.facebook.com/profile.php?id=100086423054721"> <i class="fab fa-facebook-f"></i> facebook </a>
          <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
-         <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
+         <a href="https://www.instagram.com/invites/contact/?i=msrdweo0egra&utm_content=pqfzh7y"> <i class="fab fa-instagram"></i> instagram </a>
          <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
       </div>
 
    </div>
 
-   <div class="credit"> created by <span>mr. web designer</span> | all rights reserved! </div>
-
+   <div class="rights flex-row">
+      <h3 class="text-gray">
+         Copyright ©2022 All rights reserved | made by
+         <a href="home.php" target="_black"><span>InLand Tours & Travels </span></a>
+         <a href="#" target="_black">(Alwyn Sebastian)</a>
+      </h3>
+   </div>
+   <div class="call">
+      <button class="btn form-btn"><a href="tel:+91-9847449044">Talk with our Travel Expert</a></button>
+   </div>
 </section>
 
 <!-- footer section ends -->

@@ -292,7 +292,83 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/kashmir.jpg" alt="">
+            <img src="images/Kashmir.jpg" alt="">
+         </div>
+         <div class="content">
+            <h3>Explore the Frozen KASHMIR</h3>
+            <p>Why even think of Switzerland, when you have Kashmir. Yeah, that’s true! We all know how beautiful Kashmir is during winters. The views of snow-covered meadows,</p>
+            <a href="book.php" class="btn">explore</a>
+            <a href="book.php" class="btn">book now</a>
+         </div>
+      </div>
+         
+      <div class="box">
+         <div class="image">
+            <img src="images/img-3.jpg" alt="">
+         </div>
+         <div class="content">
+            <h3>Explore the beauty of KERALA</h3>
+            <p>Have you ever imagined what Paradise would look like? Where you can smell the essence of fresh air bouncing back from your cheeks. Loads of palm trees swaying all around you. </p>
+            <a href="book.php" class="btn">explore</a>
+            <a href="book.php" class="btn">book now</a>
+         </div>
+      </div>
+
+      <div class="box">
+         <div class="image">
+            <img src="images\lakshadweep.jpg" alt="">
+         </div>
+         <div class="content">
+            <h3>Panoramic agatti island</h3></h3>
+            <p> Activities at Agatti comprise swimming in crystal clear waters, 
+               snorkelling and scuba diving Deep Sea Fishing, sailing, glass bottom
+               boat rides, water skiing and kayaking </i></p>
+            <a href="book.php" class="btn">explore</a>
+            <a href="book.php" class="btn">book now</a>
+         </div>
+      </div>
+
+      <div class="box">
+         <div class="image">
+            <img src="images/Kashmir.jpg" alt="">
+         </div>
+         <div class="content">
+            <h3>Explore the Frozen KASHMIR</h3>
+            <p>Why even think of Switzerland, when you have Kashmir. Yeah, that’s true! We all know how beautiful Kashmir is during winters. The views of snow-covered meadows,</p>
+            <a href="book.php" class="btn">explore</a>
+            <a href="book.php" class="btn">book now</a>
+         </div>
+      </div>
+         
+      <div class="box">
+         <div class="image">
+            <img src="images/img-3.jpg" alt="">
+         </div>
+         <div class="content">
+            <h3>Explore the beauty of KERALA</h3>
+            <p>Have you ever imagined what Paradise would look like? Where you can smell the essence of fresh air bouncing back from your cheeks. Loads of palm trees swaying all around you. </p>
+            <a href="book.php" class="btn">explore</a>
+            <a href="book.php" class="btn">book now</a>
+         </div>
+      </div>
+
+      <div class="box">
+         <div class="image">
+            <img src="images\lakshadweep.jpg" alt="">
+         </div>
+         <div class="content">
+            <h3>Panoramic agatti island</h3></h3>
+            <p> Activities at Agatti comprise swimming in crystal clear waters, 
+               snorkelling and scuba diving Deep Sea Fishing, sailing, glass bottom
+               boat rides, water skiing and kayaking </i></p>
+            <a href="book.php" class="btn">explore</a>
+            <a href="book.php" class="btn">book now</a>
+         </div>
+      </div>
+
+      <div class="box">
+         <div class="image">
+            <img src="images/Kashmir.jpg" alt="">
          </div>
          <div class="content">
             <h3>Explore the Frozen KASHMIR</h3>
@@ -368,83 +444,7 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/kashmir.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>Explore the Frozen KASHMIR</h3>
-            <p>Why even think of Switzerland, when you have Kashmir. Yeah, that’s true! We all know how beautiful Kashmir is during winters. The views of snow-covered meadows,</p>
-            <a href="book.php" class="btn">explore</a>
-            <a href="book.php" class="btn">book now</a>
-         </div>
-      </div>
-         
-      <div class="box">
-         <div class="image">
-            <img src="images/img-3.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>Explore the beauty of KERALA</h3>
-            <p>Have you ever imagined what Paradise would look like? Where you can smell the essence of fresh air bouncing back from your cheeks. Loads of palm trees swaying all around you. </p>
-            <a href="book.php" class="btn">explore</a>
-            <a href="book.php" class="btn">book now</a>
-         </div>
-      </div>
-
-      <div class="box">
-         <div class="image">
-            <img src="images\lakshadweep.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>Panoramic agatti island</h3></h3>
-            <p> Activities at Agatti comprise swimming in crystal clear waters, 
-               snorkelling and scuba diving Deep Sea Fishing, sailing, glass bottom
-               boat rides, water skiing and kayaking </i></p>
-            <a href="book.php" class="btn">explore</a>
-            <a href="book.php" class="btn">book now</a>
-         </div>
-      </div>
-
-      <div class="box">
-         <div class="image">
-            <img src="images/kashmir.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>Explore the Frozen KASHMIR</h3>
-            <p>Why even think of Switzerland, when you have Kashmir. Yeah, that’s true! We all know how beautiful Kashmir is during winters. The views of snow-covered meadows,</p>
-            <a href="book.php" class="btn">explore</a>
-            <a href="book.php" class="btn">book now</a>
-         </div>
-      </div>
-         
-      <div class="box">
-         <div class="image">
-            <img src="images/img-3.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>Explore the beauty of KERALA</h3>
-            <p>Have you ever imagined what Paradise would look like? Where you can smell the essence of fresh air bouncing back from your cheeks. Loads of palm trees swaying all around you. </p>
-            <a href="book.php" class="btn">explore</a>
-            <a href="book.php" class="btn">book now</a>
-         </div>
-      </div>
-
-      <div class="box">
-         <div class="image">
-            <img src="images\lakshadweep.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>Panoramic agatti island</h3></h3>
-            <p> Activities at Agatti comprise swimming in crystal clear waters, 
-               snorkelling and scuba diving Deep Sea Fishing, sailing, glass bottom
-               boat rides, water skiing and kayaking </i></p>
-            <a href="book.php" class="btn">explore</a>
-            <a href="book.php" class="btn">book now</a>
-         </div>
-      </div>
-
-      <div class="box">
-         <div class="image">
-            <img src="images/kashmir.jpg" alt="">
+            <img src="images/Kashmir.jpg" alt="">
          </div>
          <div class="content">
             <h3>Explore the Frozen KASHMIR</h3>

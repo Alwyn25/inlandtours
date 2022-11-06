@@ -494,15 +494,7 @@
    <div class="box-container">
 
       <div class="box">
-         <h3>extra links</h3>
-         <a href="#"> <i class="fas fa-angle-right"></i> ask questions</a>
-         <a href="about.php"> <i class="fas fa-angle-right"></i> about us</a>
-         <a href="./privacy.php#privacy"> <i class="fas fa-angle-right"></i> privacy policy</a>
-         <a href="./terms.php#terms"> <i class="fas fa-angle-right"></i> terms of use</a>
-      </div>
-
-      <div class="box">
-         <h3>popular destinations</h3>
+         <h3>quick links</h3>
          <a href="index.php"> <i class="fas fa-angle-right"></i> home</a>
          <a href="about.php"> <i class="fas fa-angle-right"></i> about</a>
          <a href="package.php"> <i class="fas fa-angle-right"></i> package</a>
@@ -510,25 +502,41 @@
       </div>
 
       <div class="box">
+         <h3>extra links</h3>
+         <a href="#"> <i class="fas fa-angle-right"></i> ask questions</a>
+         <a href="about.php"> <i class="fas fa-angle-right"></i> about us</a>
+         <a href="./privacy.php#privacy"> <i class="fas fa-angle-right"></i> privacy policy</a>
+         <a href="./terms.php#terms"><i class="fas fa-angle-right"></i> terms of use</a>
+      </div>
+
+      <div class="box">
          <h3>contact info</h3>
-         <a href="#"> <i class="fas fa-phone"></i> +123-456-7890 </a>
-         <a href="#"> <i class="fas fa-phone"></i> +111-222-3333 </a>
-         <a href="#"> <i class="fas fa-envelope"></i> shaikhanas@gmail.com </a>
-         <a href="#"> <i class="fas fa-map"></i> mumbai, india - 400104 </a>
+         <a href="tel:+91-9847449044"> <i class="fas fa-phone"></i> +91-9847449044 </a>
+         <a href="tel:+91-8848474994"> <i class="fas fa-phone"></i> +91-8848474994 </a>
+         <a href="mailto: info@inlandtours.in "> <i class="fas fa-envelope"></i>  Info@Inlandtours.In </a>
+         <a href="#"> <i class="fas fa-map"></i> Nilambur, india - 679331 </a>
       </div>
 
       <div class="box">
          <h3>follow us</h3>
-         <a href="#"> <i class="fab fa-facebook-f"></i> facebook </a>
+         <a href="https://www.facebook.com/profile.php?id=100086423054721"> <i class="fab fa-facebook-f"></i> facebook </a>
          <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
-         <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
+         <a href="https://www.instagram.com/invites/contact/?i=msrdweo0egra&utm_content=pqfzh7y"> <i class="fab fa-instagram"></i> instagram </a>
          <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
       </div>
 
    </div>
 
-   <div class="credit"> created by <span>mr. web designer</span> | all rights reserved! </div>
-
+   <div class="rights flex-row">
+      <h3 class="text-gray">
+         Copyright ©2022 All rights reserved | made by
+         <a href="home.php" target="_black"><span>InLand Tours & Travels </span></a>
+         <a href="#" target="_black">(Alwyn Sebastian)</a>
+      </h3>
+   </div>
+   <div class="call">
+      <button class="btn form-btn"><a href="tel:+91-9847449044">Talk with our Travel Expert</a></button>
+   </div>
 </section>
 
 <!-- footer section ends -->

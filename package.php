@@ -92,8 +92,10 @@
             <img src="images/img-1.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>OMAN GETAWAY</h3>
+            <p>Looking for an unforgettable tour in Oman? Look no further than our selection of tours specifically designed to show you the best that this amazing country has to offer!
+            explore the country's stunning landscapes or Traditional  life.
+            </p>
             <a href="book.php" class="btn">explore</a>
             <a href="book.php" class="btn">book now</a>
          </div>
@@ -101,11 +103,23 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-2.jpg" alt="">
+            <img src="images/thailand.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>ESSENTIAL THAILAND</h3>
+            <p>Thailand is a Southeast Asian country known for its stunning beaches, lush jungles, and vibrant cities. From the bustling metropolis of Bangkok to the laid-back island of Phuket, there's something for everyone in Thailand.</p><br><br>
+            <a href="book.php" class="btn">explore</a>
+            <a href="book.php" class="btn">book now</a>
+         </div>
+      </div>
+      
+      <div class="box">
+         <div class="image">
+            <img src="images\netherlands.webp" alt="">
+         </div>
+         <div class="content">
+            <h3>ESSENTIAL NETHERLANDS</h3>
+            <p>Netherlands is a beautiful country full of amazing sights and attractions. From the world-famous canals of Amsterdam to the picturesque windmills of Kinderdijk, there is so much to see and do in Netherlands.</p>
             <a href="book.php" class="btn">explore</a>
             <a href="book.php" class="btn">book now</a>
          </div>
@@ -113,11 +127,13 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-3.jpg" alt="">
+            <img src="images/img-1.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>OMAN GETAWAY</h3>
+            <p>Looking for an unforgettable tour in Oman? Look no further than our selection of tours specifically designed to show you the best that this amazing country has to offer!
+            explore the country's stunning landscapes or Traditional  life.
+            </p>
             <a href="book.php" class="btn">explore</a>
             <a href="book.php" class="btn">book now</a>
          </div>
@@ -125,11 +141,23 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-4.jpg" alt="">
+            <img src="images/thailand.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>ESSENTIAL THAILAND</h3>
+            <p>Thailand is a Southeast Asian country known for its stunning beaches, lush jungles, and vibrant cities. From the bustling metropolis of Bangkok to the laid-back island of Phuket, there's something for everyone in Thailand.</p><br><br>
+            <a href="book.php" class="btn">explore</a>
+            <a href="book.php" class="btn">book now</a>
+         </div>
+      </div>
+      
+      <div class="box">
+         <div class="image">
+            <img src="images\netherlands.webp" alt="">
+         </div>
+         <div class="content">
+            <h3>ESSENTIAL NETHERLANDS</h3>
+            <p>Netherlands is a beautiful country full of amazing sights and attractions. From the world-famous canals of Amsterdam to the picturesque windmills of Kinderdijk, there is so much to see and do in Netherlands.</p>
             <a href="book.php" class="btn">explore</a>
             <a href="book.php" class="btn">book now</a>
          </div>
@@ -137,11 +165,13 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-5.jpg" alt="">
+            <img src="images/img-1.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>OMAN GETAWAY</h3>
+            <p>Looking for an unforgettable tour in Oman? Look no further than our selection of tours specifically designed to show you the best that this amazing country has to offer!
+            explore the country's stunning landscapes or Traditional  life.
+            </p>
             <a href="book.php" class="btn">explore</a>
             <a href="book.php" class="btn">book now</a>
          </div>
@@ -149,11 +179,23 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-6.jpg" alt="">
+            <img src="images/thailand.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>ESSENTIAL THAILAND</h3>
+            <p>Thailand is a Southeast Asian country known for its stunning beaches, lush jungles, and vibrant cities. From the bustling metropolis of Bangkok to the laid-back island of Phuket, there's something for everyone in Thailand.</p><br><br>
+            <a href="book.php" class="btn">explore</a>
+            <a href="book.php" class="btn">book now</a>
+         </div>
+      </div>
+      
+      <div class="box">
+         <div class="image">
+            <img src="images\netherlands.webp" alt="">
+         </div>
+         <div class="content">
+            <h3>ESSENTIAL NETHERLANDS</h3>
+            <p>Netherlands is a beautiful country full of amazing sights and attractions. From the world-famous canals of Amsterdam to the picturesque windmills of Kinderdijk, there is so much to see and do in Netherlands.</p>
             <a href="book.php" class="btn">explore</a>
             <a href="book.php" class="btn">book now</a>
          </div>
@@ -161,11 +203,13 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-7.jpg" alt="">
+            <img src="images/img-1.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>OMAN GETAWAY</h3>
+            <p>Looking for an unforgettable tour in Oman? Look no further than our selection of tours specifically designed to show you the best that this amazing country has to offer!
+            explore the country's stunning landscapes or Traditional  life.
+            </p>
             <a href="book.php" class="btn">explore</a>
             <a href="book.php" class="btn">book now</a>
          </div>
@@ -173,11 +217,23 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-8.jpg" alt="">
+            <img src="images/thailand.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>ESSENTIAL THAILAND</h3>
+            <p>Thailand is a Southeast Asian country known for its stunning beaches, lush jungles, and vibrant cities. From the bustling metropolis of Bangkok to the laid-back island of Phuket, there's something for everyone in Thailand.</p><br><br>
+            <a href="book.php" class="btn">explore</a>
+            <a href="book.php" class="btn">book now</a>
+         </div>
+      </div>
+      
+      <div class="box">
+         <div class="image">
+            <img src="images\netherlands.webp" alt="">
+         </div>
+         <div class="content">
+            <h3>ESSENTIAL NETHERLANDS</h3>
+            <p>Netherlands is a beautiful country full of amazing sights and attractions. From the world-famous canals of Amsterdam to the picturesque windmills of Kinderdijk, there is so much to see and do in Netherlands.</p>
             <a href="book.php" class="btn">explore</a>
             <a href="book.php" class="btn">book now</a>
          </div>
@@ -185,47 +241,23 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-9.jpg" alt="">
+            <img src="images/thailand.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>ESSENTIAL THAILAND</h3>
+            <p>Thailand is a Southeast Asian country known for its stunning beaches, lush jungles, and vibrant cities. From the bustling metropolis of Bangkok to the laid-back island of Phuket, there's something for everyone in Thailand.</p><br><br>
             <a href="book.php" class="btn">explore</a>
             <a href="book.php" class="btn">book now</a>
          </div>
       </div>
-
+      
       <div class="box">
          <div class="image">
-            <img src="images/img-10.jpg" alt="">
+            <img src="images\netherlands.webp" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">explore</a>
-            <a href="book.php" class="btn">book now</a>
-         </div>
-      </div>
-
-      <div class="box">
-         <div class="image">
-            <img src="images/img-11.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">explore</a>
-            <a href="book.php" class="btn">book now</a>
-         </div>
-      </div>
-
-      <div class="box">
-         <div class="image">
-            <img src="images/img-12.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>ESSENTIAL NETHERLANDS</h3>
+            <p>Netherlands is a beautiful country full of amazing sights and attractions. From the world-famous canals of Amsterdam to the picturesque windmills of Kinderdijk, there is so much to see and do in Netherlands.</p>
             <a href="book.php" class="btn">explore</a>
             <a href="book.php" class="btn">book now</a>
          </div>
@@ -284,11 +316,13 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-1.jpg" alt="">
+            <img src="images\lakshadweep.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>Panoramic agatti island</h3></h3>
+            <p> Activities at Agatti comprise swimming in crystal clear waters, 
+               snorkelling and scuba diving Deep Sea Fishing, sailing, glass bottom
+               boat rides, water skiing and kayaking </i></p>
             <a href="book.php" class="btn">explore</a>
             <a href="book.php" class="btn">book now</a>
          </div>
@@ -296,23 +330,23 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-2.jpg" alt="">
+            <img src="images/kashmir.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>Explore the Frozen KASHMIR</h3>
+            <p>Why even think of Switzerland, when you have Kashmir. Yeah, that’s true! We all know how beautiful Kashmir is during winters. The views of snow-covered meadows,</p>
             <a href="book.php" class="btn">explore</a>
             <a href="book.php" class="btn">book now</a>
          </div>
       </div>
-
+         
       <div class="box">
          <div class="image">
             <img src="images/img-3.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>Explore the beauty of KERALA</h3>
+            <p>Have you ever imagined what Paradise would look like? Where you can smell the essence of fresh air bouncing back from your cheeks. Loads of palm trees swaying all around you. </p>
             <a href="book.php" class="btn">explore</a>
             <a href="book.php" class="btn">book now</a>
          </div>
@@ -320,11 +354,13 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-4.jpg" alt="">
+            <img src="images\lakshadweep.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>Panoramic agatti island</h3></h3>
+            <p> Activities at Agatti comprise swimming in crystal clear waters, 
+               snorkelling and scuba diving Deep Sea Fishing, sailing, glass bottom
+               boat rides, water skiing and kayaking </i></p>
             <a href="book.php" class="btn">explore</a>
             <a href="book.php" class="btn">book now</a>
          </div>
@@ -332,11 +368,23 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-5.jpg" alt="">
+            <img src="images/kashmir.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>Explore the Frozen KASHMIR</h3>
+            <p>Why even think of Switzerland, when you have Kashmir. Yeah, that’s true! We all know how beautiful Kashmir is during winters. The views of snow-covered meadows,</p>
+            <a href="book.php" class="btn">explore</a>
+            <a href="book.php" class="btn">book now</a>
+         </div>
+      </div>
+         
+      <div class="box">
+         <div class="image">
+            <img src="images/img-3.jpg" alt="">
+         </div>
+         <div class="content">
+            <h3>Explore the beauty of KERALA</h3>
+            <p>Have you ever imagined what Paradise would look like? Where you can smell the essence of fresh air bouncing back from your cheeks. Loads of palm trees swaying all around you. </p>
             <a href="book.php" class="btn">explore</a>
             <a href="book.php" class="btn">book now</a>
          </div>
@@ -344,11 +392,13 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-6.jpg" alt="">
+            <img src="images\lakshadweep.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>Panoramic agatti island</h3></h3>
+            <p> Activities at Agatti comprise swimming in crystal clear waters, 
+               snorkelling and scuba diving Deep Sea Fishing, sailing, glass bottom
+               boat rides, water skiing and kayaking </i></p>
             <a href="book.php" class="btn">explore</a>
             <a href="book.php" class="btn">book now</a>
          </div>
@@ -356,11 +406,23 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-7.jpg" alt="">
+            <img src="images/kashmir.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>Explore the Frozen KASHMIR</h3>
+            <p>Why even think of Switzerland, when you have Kashmir. Yeah, that’s true! We all know how beautiful Kashmir is during winters. The views of snow-covered meadows,</p>
+            <a href="book.php" class="btn">explore</a>
+            <a href="book.php" class="btn">book now</a>
+         </div>
+      </div>
+         
+      <div class="box">
+         <div class="image">
+            <img src="images/img-3.jpg" alt="">
+         </div>
+         <div class="content">
+            <h3>Explore the beauty of KERALA</h3>
+            <p>Have you ever imagined what Paradise would look like? Where you can smell the essence of fresh air bouncing back from your cheeks. Loads of palm trees swaying all around you. </p>
             <a href="book.php" class="btn">explore</a>
             <a href="book.php" class="btn">book now</a>
          </div>
@@ -368,11 +430,13 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-8.jpg" alt="">
+            <img src="images\lakshadweep.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>Panoramic agatti island</h3></h3>
+            <p> Activities at Agatti comprise swimming in crystal clear waters, 
+               snorkelling and scuba diving Deep Sea Fishing, sailing, glass bottom
+               boat rides, water skiing and kayaking </i></p>
             <a href="book.php" class="btn">explore</a>
             <a href="book.php" class="btn">book now</a>
          </div>
@@ -380,47 +444,23 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-9.jpg" alt="">
+            <img src="images/kashmir.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>Explore the Frozen KASHMIR</h3>
+            <p>Why even think of Switzerland, when you have Kashmir. Yeah, that’s true! We all know how beautiful Kashmir is during winters. The views of snow-covered meadows,</p>
             <a href="book.php" class="btn">explore</a>
             <a href="book.php" class="btn">book now</a>
          </div>
       </div>
-
+         
       <div class="box">
          <div class="image">
-            <img src="images/img-10.jpg" alt="">
+            <img src="images/img-3.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">explore</a>
-            <a href="book.php" class="btn">book now</a>
-         </div>
-      </div>
-
-      <div class="box">
-         <div class="image">
-            <img src="images/img-11.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">explore</a>
-            <a href="book.php" class="btn">book now</a>
-         </div>
-      </div>
-
-      <div class="box">
-         <div class="image">
-            <img src="images/img-12.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>Explore the beauty of KERALA</h3>
+            <p>Have you ever imagined what Paradise would look like? Where you can smell the essence of fresh air bouncing back from your cheeks. Loads of palm trees swaying all around you. </p>
             <a href="book.php" class="btn">explore</a>
             <a href="book.php" class="btn">book now</a>
          </div>

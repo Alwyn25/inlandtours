@@ -406,87 +406,10 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
   captionText.innerHTML = dots[slideIndex-1].alt;
 }
+</script>
+<!-- reviews section starts  -->
 
-
-<!-- <section class="feedback-title">
-   <div class="site-background" id="home">
-         <h1 class="heading-title">We value your feedback</h1>
-         <a href="feedback.php"><button class="btn feedback-btn">Write your experience with Inland tours & travels</button></a>
-   </div>
-</section> -->
-
-<!-- reviews section ends -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- footer section starts  -->
-
-<section class="footer">
-
-   <div class="box-container">
-
-      <div class="box">
-         <h3>quick links</h3>
-         <a href="index.php"> <i class="fas fa-angle-right"></i> home</a>
-         <a href="about.php"> <i class="fas fa-angle-right"></i> about</a>
-         <a href="package.php"> <i class="fas fa-angle-right"></i> package</a>
-         <a href="book.php"> <i class="fas fa-angle-right"></i> book</a>
-      </div>
-
-      <div class="box">
-         <h3>extra links</h3>
-         <a href="#"> <i class="fas fa-angle-right"></i> ask questions</a>
-         <a href="#"> <i class="fas fa-angle-right"></i> about us</a>
-         <a href="./privacy.php#privacy"> <i class="fas fa-angle-right"></i> privacy policy</a>
-         <a href="./terms.php#terms"><i class="fas fa-angle-right"></i> terms of use</a>
-      </div>
-
-      <div class="box">
-         <h3>contact info</h3>
-         <a href="tel:+91-9847449044"> <i class="fas fa-phone"></i> +91-9847449044 </a>
-         <a href="tel:+91-8848474994"> <i class="fas fa-phone"></i> +91-8848474994 </a>
-         <a href="mailto: info@inlandtours.in "> <i class="fas fa-envelope"></i>  Info@Inlandtours.In </a>
-         <a href="#"> <i class="fas fa-map"></i> Nilambur, india - 679331 </a>
-      </div>
-
-      <div class="box">
-         <h3>follow us</h3>
-         <a href="https://www.facebook.com/profile.php?id=100086423054721"> <i class="fab fa-facebook-f"></i> facebook </a>
-         <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
-         <a href="https://www.instagram.com/invites/contact/?i=msrdweo0egra&utm_content=pqfzh7y"> <i class="fab fa-instagram"></i> instagram </a>
-         <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
-      </div>
-
-   </div>
-
-   <div class="rights flex-row">
-      <h3 class="text-gray">
-         Copyright ©2022 All rights reserved | made by
-         <a href="home.php" target="_black"><span>InLand Tours & Travels </span></a>
-         <a href="#" target="_black">(Alwyn Sebastian)</a>
-      </h3>
-   </div>
-   <div class="call">
-      <button class="btn form-btn"><a href="tel:+91-9847449044">Talk with our Travel Expert</a></button>
-   </div>
-</section>
-
-<!-- footer section ends -->
-
-
-<!-- <section class="reviews">
+<section class="reviews">
 
    <h1 class="heading-title"> clients reviews </h1>
 
@@ -576,7 +499,88 @@ function showSlides(n) {
 
    </div>
 
-</section> -->
+</section>
+
+
+<section class="feedback-title">
+   <div class="site-background" id="home">
+         <h1 class="heading-title">We value your feedback</h1>
+         <a href="feedback.php"><button class="btn feedback-btn">Write your experience with Inland tours & travels</button></a>
+   </div>
+</section>
+
+<!-- reviews section ends -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- footer section starts  -->
+
+<section class="footer">
+
+   <div class="box-container">
+
+      <div class="box">
+         <h3>quick links</h3>
+         <a href="index.php"> <i class="fas fa-angle-right"></i> home</a>
+         <a href="about.php"> <i class="fas fa-angle-right"></i> about</a>
+         <a href="package.php"> <i class="fas fa-angle-right"></i> package</a>
+         <a href="book.php"> <i class="fas fa-angle-right"></i> book</a>
+      </div>
+
+      <div class="box">
+         <h3>extra links</h3>
+         <a href="#"> <i class="fas fa-angle-right"></i> ask questions</a>
+         <a href="#"> <i class="fas fa-angle-right"></i> about us</a>
+         <a href="./privacy.php#privacy"> <i class="fas fa-angle-right"></i> privacy policy</a>
+         <a href="./terms.php#terms"><i class="fas fa-angle-right"></i> terms of use</a>
+      </div>
+
+      <div class="box">
+         <h3>contact info</h3>
+         <a href="tel:+91-9847449044"> <i class="fas fa-phone"></i> +91-9847449044 </a>
+         <a href="tel:+91-8848474994"> <i class="fas fa-phone"></i> +91-8848474994 </a>
+         <a href="mailto: info@inlandtours.in "> <i class="fas fa-envelope"></i>  Info@Inlandtours.In </a>
+         <a href="#"> <i class="fas fa-map"></i> Nilambur, india - 679331 </a>
+      </div>
+
+      <div class="box">
+         <h3>follow us</h3>
+         <a href="https://www.facebook.com/profile.php?id=100086423054721"> <i class="fab fa-facebook-f"></i> facebook </a>
+         <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
+         <a href="https://www.instagram.com/invites/contact/?i=msrdweo0egra&utm_content=pqfzh7y"> <i class="fab fa-instagram"></i> instagram </a>
+         <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
+      </div>
+
+   </div>
+
+   <div class="rights flex-row">
+      <h3 class="text-gray">
+         Copyright ©2022 All rights reserved | made by
+         <a href="home.php" target="_black"><span>InLand Tours & Travels </span></a>
+         <a href="#" target="_black">(Alwyn Sebastian)</a>
+      </h3>
+   </div>
+   <div class="call">
+      <button class="btn form-btn"><a href="tel:+91-9847449044">Talk with our Travel Expert</a></button>
+   </div>
+</section>
+
+<!-- footer section ends -->
+
+
+
 
 
 

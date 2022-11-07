@@ -620,6 +620,9 @@ section{
     text-align: center;
     background-color: #7e7777;
  }
+.footer .rights .text-gray{
+   color: var(--light-black);
+ }
  .footer .rights h3{
     padding-top: 0.8%;
     font-size: 15px;

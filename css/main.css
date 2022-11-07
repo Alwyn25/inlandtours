@@ -619,13 +619,14 @@ section{
     justify-content: center;
     text-align: center;
  }
-.footer .rights .text-gray{
-   color: var(--light-white);
- }
- .footer .rights h3{
+ .footer .rights .text-gray{
     padding-top: 0.8%;
     font-size: 15px;
+    color:var(--light-white)
  }
+.footer .rights .text-gray .company-right{
+    color:var(--main-color);
+}
  .footer .call .btn{
     display: flex;
     text-align: center;

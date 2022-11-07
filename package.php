@@ -54,7 +54,7 @@
             <img src="images/img-1.jpg" alt="">
          </div>
          <div class="content">
-            <h3>OMAN GETAWAY</h3>
+            <h3>OMAN GATEWAY</h3>
             <p>Looking for an unforgettable tour in Oman? Look no further than our selection of tours specifically designed to show you the best that this amazing country has to offer!
             explore the country's stunning landscapes or Traditional  life.
             </p>
@@ -92,7 +92,7 @@
             <img src="images/img-1.jpg" alt="">
          </div>
          <div class="content">
-            <h3>OMAN GETAWAY</h3>
+            <h3>OMAN GATEWAY</h3>
             <p>Looking for an unforgettable tour in Oman? Look no further than our selection of tours specifically designed to show you the best that this amazing country has to offer!
             explore the country's stunning landscapes or Traditional  life.
             </p>
@@ -130,7 +130,7 @@
             <img src="images/img-1.jpg" alt="">
          </div>
          <div class="content">
-            <h3>OMAN GETAWAY</h3>
+            <h3>OMAN GATEWAY</h3>
             <p>Looking for an unforgettable tour in Oman? Look no further than our selection of tours specifically designed to show you the best that this amazing country has to offer!
             explore the country's stunning landscapes or Traditional  life.
             </p>
@@ -168,7 +168,7 @@
             <img src="images/img-1.jpg" alt="">
          </div>
          <div class="content">
-            <h3>OMAN GETAWAY</h3>
+            <h3>OMAN GATEWAY</h3>
             <p>Looking for an unforgettable tour in Oman? Look no further than our selection of tours specifically designed to show you the best that this amazing country has to offer!
             explore the country's stunning landscapes or Traditional  life.
             </p>
@@ -206,7 +206,7 @@
             <img src="images/img-1.jpg" alt="">
          </div>
          <div class="content">
-            <h3>OMAN GETAWAY</h3>
+            <h3>OMAN GATEWAY</h3>
             <p>Looking for an unforgettable tour in Oman? Look no further than our selection of tours specifically designed to show you the best that this amazing country has to offer!
             explore the country's stunning landscapes or Traditional  life.
             </p>

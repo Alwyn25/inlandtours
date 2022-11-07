@@ -340,10 +340,10 @@
    </div>
 
    <div class="rights flex-row">
-      <h3 class="text-gray">
+      <p class="text-gray">
          <a>Copyright ©2022 All rights reserved | made by</a>
          <a class="company-right" href="index.php" target="_black"><span>InLand Tours & Travels | Alwyn Sebastian </span></a>
-      </h3>
+      </p>
    </div>
    <div class="call">
       <button class="btn form-btn"><a href="tel:+91-9847449044">Talk with our Travel Expert</a></button>

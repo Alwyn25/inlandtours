@@ -747,7 +747,7 @@ section{
       justify-content: center;
       text-align: center;
   }
-  .footer .rights h3{
+  .footer .rights p{
    font-size: 1.5rem;
   }
 }

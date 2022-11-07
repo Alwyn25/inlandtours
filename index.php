@@ -342,8 +342,7 @@
    <div class="rights flex-row">
       <h3 class="text-gray">
          Copyright ©2022 All rights reserved | made by
-         <a href="home.php" target="_black"><span>InLand Tours & Travels </span></a>
-         <a href="#" target="_black">(Alwyn Sebastian)</a>
+         <a href="home.php" target="_black"><span>InLand Tours & Travels | Alwyn Sebastian </span></a>
       </h3>
    </div>
    <div class="call">

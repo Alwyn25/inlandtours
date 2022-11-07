@@ -618,10 +618,9 @@ section{
     height: 45px;
     justify-content: center;
     text-align: center;
-    background-color: #7e7777;
  }
 .footer .rights .text-gray{
-   color: var(--light-black);
+   color: var(--light-white);
  }
  .footer .rights h3{
     padding-top: 0.8%;
